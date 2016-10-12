@@ -12,28 +12,30 @@ body {
 }
 
 h1 {
-  margin-bottom: 15px;
+  margin-bottom: 10px;
   text-align: center;
 }
 
 p {
-  padding: 13px;
-  margin: 10px;
+  padding: 10px;
+  margin: 5px;
   color: black;
   position: relative;
   margin-right: auto;
   margin-left: auto;
 }
+
   .menu-item {
     background-color: #a52a2a;
     border: 1px solid black;
-    margin: 15px;
+    margin: 20px;
   }
+
 .menu-item label {
   border-bottom: 1px solid black;
   border-left: 1px solid black;
   margin: 0 0 0 70%;
-  font-size: 2.0em;
+  font-size: 1.25em;
   text-align: center;
   padding: 1px 0;
   width: 30%;
@@ -49,10 +51,12 @@ p {
   color: #e5d198;
 }
 
-#sushi {
-background-color: #888888;
-color: #e5d198;
+#sushi {  
+  background-color: #888888;
+  color: #e5d198;
 }
+
+
 
 /* Simple Responsive Framework. */
 .row {
